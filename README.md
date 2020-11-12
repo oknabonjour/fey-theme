@@ -1,11 +1,11 @@
 # fey-theme
-A theme for Powercord
-
+A theme for Powercord kinda inspired by <a href="https://github.com/NYRI4/Comfy-theme">Nyria's Comfy theme</a>!
+<img src="https://cdn.discordapp.com/attachments/730517028347314288/776240214242230312/unknown.png"> <br>
 **Installation instructions:**
 
-Open a cmd and type the following:
-`cd powercord/src/Powercord/themes && git clone https://github.com/oknabonjour/fey-theme` 
-then restart your Discord and the theme should be applied!
+Open a cmd and type the following:<br>
+`cd powercord/src/Powercord/themes && git clone https://github.com/oknabonjour/fey-theme`<br>
+Restart your Discord and the theme should be applied!<br>
 (path might depend on where your powercord is located)
 
 *User talking activity by Bowser#0001*
