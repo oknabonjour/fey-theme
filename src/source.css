@@ -28,32 +28,37 @@
     --scrollbar-auto-track: #352f44;
 }
 
+/* colored speak ring thing by Bowser65#0001 */
+.avatarSpeaking-2IGMRN {
+  -webkit-box-shadow: inset 0 0 0 2px #F7B97F,inset 0 0 0 3px var(--background-secondary);
+  box-shadow: inset 0 0 0 2px #F7B97F,inset 0 0 0 3px var(--background-secondary);
+}
 
 /* color fixes */
 
-
-.inspector-S2gM3e, .inspector-3LQtX9,.theme-dark .bar-2Qqk5Z  {
-  background-color: var(--background-tertiary)
-}
-
-.content-1LAB8Z, .thin-1ybCId, .header-1TKi98, .headerContainer-3N-yWX, .container-OI6I9q, .auto-Ge5KZx {
-  background-color: var(--background-primary)
-}
-
-.theme-dark .footer-2gL1pp{
+.theme-dark .option-96V44q:after, .theme-dark .option-96V44q.selected-rZcOL-:after {
   background-color: var(--background-secondary);
+  background: none;
 }
 
-.theme-dark .uploadModal-2ifh8j {
+.content-1LAB8Z, .thin-1ybCId, .header-1TKi98, .headerContainer-3N-yWX, .container-OI6I9q, .auto-Ge5KZx, .theme-dark .root-1gCeng, .theme-dark .uploadModal-2ifh8j, .theme-dark .container-3ayLPN, .theme-dark .option-96V44q.selected-rZcOL-, .option-96V44q.selected-rZcOL-:before, .theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
   background-color: var(--background-primary);
 }
 
-.uploadModal-2ifh8j, .footer-3mqk7D.hasSpoilers-1IRtQC {
+.theme-dark .footer-2gL1pp, .uploadModal-2ifh8j, .footer-3mqk7D .hasSpoilers-1IRtQC, .resultsGroup-r_nuzN, .theme-dark .calendarPicker-2yf6Ci, .react-datepicker, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__header, .theme-dark .calendarPicker-2yf6Ci .react-datepicker {
   background-color: var(--background-secondary);
 }
 
-.theme-dark .root-1gCeng {
-  background-color: var(--background-primary)
+.inspector-S2gM3e, .inspector-3LQtX9,.theme-dark .bar-2Qqk5Z, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:hover, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day:hover, .uploadModalIn-1z07Bv .uploadDropModal-2kTwbc .bgScale-1otPtc {
+  background-color: var(--background-tertiary)
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--selected:after {
+  background-color: #49425a
+}
+
+.theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day--outside-month, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled, .theme-dark .calendarPicker-2yf6Ci .react-datepicker__day.react-datepicker__day--disabled:hover {
+  background-color: #2b2733
 }
 
 /* text bar */
@@ -61,11 +66,6 @@
  background-color: #39304d;
 }
 
-/* colored speak ring thing by Bowser65#0001 */
-.avatarSpeaking-2IGMRN {
-  -webkit-box-shadow: inset 0 0 0 2px #F7B97F,inset 0 0 0 3px var(--background-secondary);
-  box-shadow: inset 0 0 0 2px #F7B97F,inset 0 0 0 3px var(--background-secondary);
-}
 
 /* commands/emoji selector */
 .autocompleteRowVertical-q1K4ky, .autocompleteRow-2OthDa {
