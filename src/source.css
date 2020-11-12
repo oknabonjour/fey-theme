@@ -28,6 +28,35 @@
     --scrollbar-auto-track: #352f44;
 }
 
+
+/* color fixes */
+
+
+.inspector-S2gM3e, .inspector-3LQtX9,.theme-dark .bar-2Qqk5Z  {
+  background-color: var(--background-tertiary)
+}
+
+.content-1LAB8Z, .thin-1ybCId, .header-1TKi98, .headerContainer-3N-yWX, .container-OI6I9q, .auto-Ge5KZx {
+  background-color: var(--background-primary)
+}
+
+.theme-dark .footer-2gL1pp{
+  background-color: var(--background-secondary);
+}
+
+.theme-dark .uploadModal-2ifh8j {
+  background-color: var(--background-primary);
+}
+
+.uploadModal-2ifh8j, .footer-3mqk7D.hasSpoilers-1IRtQC {
+  background-color: var(--background-secondary);
+}
+
+.theme-dark .root-1gCeng {
+  background-color: var(--background-primary)
+}
+
+/* text bar */
 .scrollableContainer-2NUZem {
  background-color: #39304d;
 }
