@@ -1,9 +1,8 @@
-  
-{
-    "name": "Comfy theme",
-    "description": "A Discord comfy theme",
+  {
+    "name": "Fey",
+    "description": "ou lulu, selon les préférences",
     "version": "1.0.0",
-    "author": "Nyria#2867",
+    "author": "okna#1337",
     "theme": "main.css",
     "consent": "false",
     "license": "MIT"
