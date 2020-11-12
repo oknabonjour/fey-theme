@@ -3,7 +3,7 @@
     "description": "ou lulu, selon les préférences",
     "version": "1.0.0",
     "author": "okna#1337",
-    "theme": "main.css",
+    "theme": "index.css",
     "consent": "false",
     "license": "MIT"
 }
