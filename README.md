@@ -1,5 +1,5 @@
 # fey-theme
-A theme for Powercord kinda inspired by <a href="https://github.com/NYRI4/Comfy-theme">Nyria's Comfy theme</a>!
+A comfy theme Powercord theme.
 <img src="https://cdn.discordapp.com/attachments/730517028347314288/776240214242230312/unknown.png"> <br>
 **Installation instructions:**
 
