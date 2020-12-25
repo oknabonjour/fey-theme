@@ -1,5 +1,5 @@
 # fey-theme
-A comfy theme Powercord theme.
+A comfy Powercord theme.
 <img src="https://cdn.discordapp.com/attachments/730517028347314288/776240214242230312/unknown.png"> <br>
 **Installation instructions:**
 
